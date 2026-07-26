@@ -2,7 +2,7 @@
 # Võ Văn Chung 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Software+Engineer;AI+%7C+Backend+%7C+Web+Developer;Building+practical+and+scalable+solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Computer+Science+Student;AI+%7C+Backend+%7C+Web+Developer;Building+practical+and+scalable+solutions" />
 </p>
 
 <div align="center">
@@ -16,13 +16,13 @@
 
 ## About Me
 
-Hi, I'm **Võ Văn Chung**, a Computer Science student at the Vietnamese–Korean University (VKU), The University of Danang. I'm from Quang Ngai, Vietnam.
+Hi, I'm **Võ Văn Chung**, a Computer Science student at the Vietnamese–Korean University (VKU), The University of Da Nang, from Quang Ngai, Vietnam.
 
 My journey in software development began with **Web Application Development**, where I built backend services and web applications while learning modern software engineering practices.
 
 Previously, I completed an AI internship at **Binh Son Refining and Petrochemical Joint Stock Company (BSR)**, where I gained hands-on experience with AI model integration, OCR technologies, and intelligent document processing.
 
-Currently, I'm focusing on **Artificial Intelligence**, especially **Computer Vision, OCR, Machine Learning, Deep Learning, and Large Language Models (LLMs)**. I enjoy building practical AI applications that solve real-world problems and continuously expanding my knowledge of modern AI technologies.
+Currently, I'm focusing on **Artificial Intelligence**, especially **Computer Vision, OCR, Machine Learning, Deep Learning, and Large Language Models (LLMs)**. I enjoy turning ideas into practical software and continuously learning new technologies through hands-on projects.
 
 ## 🎯 Current Focus
 
@@ -31,8 +31,6 @@ Currently, I'm focusing on **Artificial Intelligence**, especially **Computer Vi
 - 👁️ Building Computer Vision and OCR solutions with Python
 - 🤗 Working with Hugging Face Transformers and open-source AI models
 - 🚀 Creating practical, scalable, and real-world software solutions
-
----
 
 ## Tech Stack
 
@@ -53,6 +51,9 @@ Currently, I'm focusing on **Artificial Intelligence**, especially **Computer Vi
 ## AI / Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
@@ -69,7 +70,14 @@ Currently, I'm focusing on **Artificial Intelligence**, especially **Computer Vi
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
----
+## 🌟 What I Enjoy
+
+- 🤖 Building AI-powered applications that solve real-world problems
+- 👁️ Exploring Computer Vision, OCR, and Large Language Models (LLMs)
+- 💻 Developing backend systems and modern web applications
+- 📚 Continuously learning new technologies and improving my skills
+- 🤝 Collaborating on meaningful projects and contributing to open source
+
 
 ## 🤝 Let's Connect
 
@@ -77,7 +85,6 @@ I'm always excited to connect with people who share an interest in **AI**, **Sof
 
 Feel free to reach out—I'm always happy to learn, share knowledge, and collaborate on meaningful projects.
 
----
 
 <div align="center">
 
