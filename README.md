@@ -17,23 +17,15 @@
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science student at **Vietnam–Korea University of Information and Communication Technology (VKU)**.
+Hi, I'm Võ Văn Chung — a final-year Computer Science student at the Vietnamese-Korean University (VKU), The University of Danang, Vietnam. My journey in software development began with Web Application development, where I built backend services and web applications while learning modern software engineering practices.
 
-💼 Former AI Intern at **Binh Son Refining and Petrochemical (BSR)**
+Previously, I worked as an AI Intern at Binh Son Refining and Petrochemical Joint Stock Company (BSR), where I explored AI model integration, OCR technologies, and intelligent document processing solutions.
 
-❤️ Passionate about **Artificial Intelligence**, **Computer Vision**, **OCR**, **LLMs**, and **Document AI**
-
-🎯 Currently focusing on **Python**, **Transformers**, **Hugging Face**, **Vision-Language Models**, and **Backend Development**
+Currently, I'm focusing on Computer Vision, Machine Learning, Deep Learning, and Large Language Models (LLMs), while continuously expanding my expertise in Python and modern AI technologies.
 
 ---
 
-## 🚀 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+## Tech Stack
 
 ### AI / Machine Learning
 
@@ -47,6 +39,7 @@
 
 ### Backend
 
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
@@ -57,12 +50,14 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### Tools
+### Technologies & Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+### Mobile 
+
 
 ---
 
