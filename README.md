@@ -1,5 +1,4 @@
 
-
 # Võ Văn Chung 👋
 
 <p align="center">
@@ -15,13 +14,15 @@
 </div>
 
 
-## 👨‍💻 About Me
+## About Me
 
-Hi, I'm **Võ Văn Chung** — Computer Science student at the Vietnamese-Korean University (VKU), The University of Danang, Vietnam. My journey in software development began with Web Application development, where I built backend services and web applications while learning modern software engineering practices.
+Hi, I'm **Võ Văn Chung**, a Computer Science student at the Vietnamese–Korean University (VKU), The University of Danang. I'm from Quang Ngai, Vietnam.
 
-Previously, I worked as an AI Intern at Binh Son Refining and Petrochemical Joint Stock Company (BSR), where I explored AI model integration, OCR technologies, and intelligent document processing solutions.
+My journey in software development began with **Web Application Development**, where I built backend services and web applications while learning modern software engineering practices.
 
-Currently, I'm focusing on Computer Vision, Machine Learning, Deep Learning, and Large Language Models (LLMs), while continuously expanding my expertise in Python and modern AI technologies.
+Previously, I completed an AI internship at **Binh Son Refining and Petrochemical Joint Stock Company (BSR)**, where I gained hands-on experience with AI model integration, OCR technologies, and intelligent document processing.
+
+Currently, I'm focusing on **Artificial Intelligence**, especially **Computer Vision, OCR, Machine Learning, Deep Learning, and Large Language Models (LLMs)**. I enjoy building practical AI applications that solve real-world problems and continuously expanding my knowledge of modern AI technologies.
 
 ---
 
@@ -46,7 +47,6 @@ Currently, I'm focusing on Computer Vision, Machine Learning, Deep Learning, and
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![Transformers](https://img.shields.io/badge/Transformers-FFCC00?style=flat&logo=huggingface&logoColor=black)
 
 ## Database
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
