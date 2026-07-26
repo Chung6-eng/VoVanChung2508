@@ -1,7 +1,6 @@
-<div align="center">
 
-# Hi 👋 I'm Võ Văn Chung
-<div align="center">
+
+# Võ Văn Chung 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Software+Engineer;AI+%7C+Backend+%7C+Web+Developer;Building+practical+and+scalable+solutions" />
@@ -19,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-Hi, I'm Võ Văn Chung — a final-year Computer Science student at the Vietnamese-Korean University (VKU), The University of Danang, Vietnam. My journey in software development began with Web Application development, where I built backend services and web applications while learning modern software engineering practices.
+Hi, I'm **Võ Văn Chung** — Computer Science student at the Vietnamese-Korean University (VKU), The University of Danang, Vietnam. My journey in software development began with Web Application development, where I built backend services and web applications while learning modern software engineering practices.
 
 Previously, I worked as an AI Intern at Binh Son Refining and Petrochemical Joint Stock Company (BSR), where I explored AI model integration, OCR technologies, and intelligent document processing solutions.
 
@@ -74,6 +73,14 @@ Currently, I'm focusing on Computer Vision, Machine Learning, Deep Learning, and
 - 📄 OCR & Document AI
 - 🤗 Hugging Face Transformers
 - 🐳 Docker & Linux
+
+---
+
+## 🤝 Let's Connect
+
+I'm always excited to connect with people who share an interest in **AI**, **Software Engineering**, and **Open Source**.
+
+Feel free to reach out—I'm always happy to learn, share knowledge, and collaborate on meaningful projects.
 
 ---
 
