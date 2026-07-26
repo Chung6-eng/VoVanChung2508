@@ -1,10 +1,11 @@
 <div align="center">
 
 # Hi 👋 I'm Võ Văn Chung
+<div align="center">
 
-### AI Engineer • Machine Learning • Computer Vision
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+Engineer;Machine+Learning;Computer+Vision" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Software Engineer;Machine+Learning+Enthusiast;Computer+Vision+Developer;Building+OCR+%26+LLM+Applications" />
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
