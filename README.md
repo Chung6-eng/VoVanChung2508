@@ -24,7 +24,7 @@ Previously, I completed an AI internship at **Binh Son Refining and Petrochemica
 
 Currently, I'm focusing on **Artificial Intelligence**, especially **Computer Vision, OCR, Machine Learning, Deep Learning, and Large Language Models (LLMs)**. I enjoy turning ideas into practical software and continuously learning new technologies through hands-on projects.
 
-## 🎯 Current Focus
+## Current Focus
 
 - 💻 Developing modern web applications with React, Spring Boot, and FastAPI
 - 🤖 Exploring Artificial Intelligence, Machine Learning, and Deep Learning
@@ -70,7 +70,7 @@ Currently, I'm focusing on **Artificial Intelligence**, especially **Computer Vi
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-## 🌟 What I Enjoy
+## What I Enjoy
 
 - 🤖 Building AI-powered applications that solve real-world problems
 - 👁️ Exploring Computer Vision, OCR, and Large Language Models (LLMs)
@@ -79,7 +79,7 @@ Currently, I'm focusing on **Artificial Intelligence**, especially **Computer Vi
 - 🤝 Collaborating on meaningful projects and contributing to open source
 
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always excited to connect with people who share an interest in **AI**, **Software Engineering**, and **Open Source**.
 
@@ -88,7 +88,7 @@ Feel free to reach out—I'm always happy to learn, share knowledge, and collabo
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting my profile!
 
 *"Always learning, always building."*
 
