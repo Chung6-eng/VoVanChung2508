@@ -24,6 +24,14 @@ Previously, I completed an AI internship at **Binh Son Refining and Petrochemica
 
 Currently, I'm focusing on **Artificial Intelligence**, especially **Computer Vision, OCR, Machine Learning, Deep Learning, and Large Language Models (LLMs)**. I enjoy building practical AI applications that solve real-world problems and continuously expanding my knowledge of modern AI technologies.
 
+## 🎯 Current Focus
+
+- 💻 Developing modern web applications with React, Spring Boot, and FastAPI
+- 🤖 Exploring Artificial Intelligence, Machine Learning, and Deep Learning
+- 👁️ Building Computer Vision and OCR solutions with Python
+- 🤗 Working with Hugging Face Transformers and open-source AI models
+- 🚀 Creating practical, scalable, and real-world software solutions
+
 ---
 
 ## Tech Stack
