@@ -26,11 +26,11 @@ Currently, I'm focusing on **Artificial Intelligence**, especially **Computer Vi
 
 ## Current Focus
 
-- 💻 Developing modern web applications with React, Spring Boot, and FastAPI
-- 🤖 Exploring Artificial Intelligence, Machine Learning, and Deep Learning
-- 👁️ Building Computer Vision and OCR solutions with Python
-- 🤗 Working with Hugging Face Transformers and open-source AI models
-- 🚀 Creating practical, scalable, and real-world software solutions
+-  Developing modern web applications with React, Spring Boot, and FastAPI
+-  Exploring Artificial Intelligence, Machine Learning, and Deep Learning
+-  Building Computer Vision and OCR solutions with Python
+-  Working with Hugging Face Transformers and open-source AI models
+-  Creating practical, scalable, and real-world software solutions
 
 ## Tech Stack
 
@@ -72,11 +72,11 @@ Currently, I'm focusing on **Artificial Intelligence**, especially **Computer Vi
 
 ## What I Enjoy
 
-- 🤖 Building AI-powered applications that solve real-world problems
-- 👁️ Exploring Computer Vision, OCR, and Large Language Models (LLMs)
-- 💻 Developing backend systems and modern web applications
-- 📚 Continuously learning new technologies and improving my skills
-- 🤝 Collaborating on meaningful projects and contributing to open source
+-  Building AI-powered applications that solve real-world problems
+-  Exploring Computer Vision, OCR, and Large Language Models (LLMs)
+-  Developing backend systems and modern web applications
+-  Continuously learning new technologies and improving my skills
+-  Collaborating on meaningful projects and contributing to open source
 
 
 ## Let's Connect
