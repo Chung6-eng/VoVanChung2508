@@ -3,7 +3,9 @@
 # Hi 👋 I'm Võ Văn Chung
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+AI+Developer;Building+practical+and+scalable+solutions" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Software+Engineer;AI+%7C+Backend+%7C+Web+Developer;Building+practical+and+scalable+solutions" />
+</p>
 
 </div>
 
