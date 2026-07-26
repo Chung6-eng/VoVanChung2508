@@ -82,9 +82,7 @@ Currently, I'm focusing on **Artificial Intelligence**, especially **Computer Vi
 ## Let's Connect
 
 I'm always excited to connect with people who share an interest in **AI**, **Software Engineering**, and **Open Source**.
-
 Feel free to reach out—I'm always happy to learn, share knowledge, and collaborate on meaningful projects.
-
 
 <div align="center">
 
